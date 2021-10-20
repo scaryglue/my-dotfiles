@@ -217,8 +217,3 @@ exec_always --no-startup-id wal -R -n
 exec_always --no-startup-id feh --bg-fill ~/Pictures/Wal/wal.jpg
 
 exec --no-startup-id picom --experimental-backends -b
-
-#gaps
-gaps inner 5
-gaps outer 5
-smart_gaps on
